@@ -1,0 +1,13 @@
+Primero:
+separar los rchivos
+Segundo:
+ en el archivo IA_planta plicar el siguiente comando en la terminal uvicorn main:app --reload
+
+Tercero:
+ en el archivo ia_plantasw_fronend aplicar la siguiente comando 
+npm start
+
+
+
+cuarto:
+tener intalado react
