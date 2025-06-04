@@ -9,5 +9,12 @@ npm start
 
 
 
-cuarto:
+Instalaciones:
 tener intalado react
+
+instalar pip install fastapi uvicorn joblib numpy opencv-python python-multipart
+--para la API--
+
+npm install axios
+npm install react-router-dom 
+npm install styled-components
